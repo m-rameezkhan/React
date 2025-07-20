@@ -1,0 +1,13 @@
+.heading{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px 0px;
+    text-align: center;
+}
+.todoItem{
+    margin-top: 5px !important;
+    margin-bottom: 5px;
+}
+button{
+    width: 100px;
+}
